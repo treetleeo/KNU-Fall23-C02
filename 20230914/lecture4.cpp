@@ -14,7 +14,7 @@ int main()
 	printf("a = 0, b = 5, c = 8ÀÏ ¶§ \n");
 	printf("1. a && b : %d\n", val1);
 	printf("2. a || c : %d\n", val2);
-	printf("3. (a > b) && (a < c) : d\n", val3);
+	printf("3. (a > b) && (a < c) : %d\n", val3);
 	printf("4. !val3 : %d\n", val4);
 	printf("5. b && c : %d\n", val5);
 
