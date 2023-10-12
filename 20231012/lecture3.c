@@ -8,4 +8,5 @@ int main()
 	printf("첫 번째 요소 : %p\n", arr[0]);
 	printf("두 번째 요소 : %p\n", arr[1]);
 	printf("세 번째 요소 : %p\n", arr[2]);
+	return 0;
 }
